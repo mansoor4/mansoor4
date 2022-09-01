@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **collaborate on open source**
 
-- 🤝 I’m looking for help with **help with blockchain**
+- 🤝 I’m looking for help with **help with Blockchain**
 
-- 💬 Ask me about **Nodejs,REST API,GraphQL API related**
+- 💬 Ask me about **Nodejs,REST API,GraphQL,Reactjs,Jest related**
 
 - 📫 How to reach me **mansoorshakir642@gmail.com**
 
